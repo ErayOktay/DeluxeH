@@ -8,7 +8,6 @@ Rezervasyon Formu: Kullanıcı dostu bir rezervasyon formu (şu anda statik, bac
 Galeri: Otel odaları ve tesislerinin fotoğraflarını gösteren bir galeri bölümü.
 Modern Stil: Bootstrap ile geliştirilmiş temiz ve profesyonel bir görünüm.
 
-
 Kullanım
 
 Ana Sayfayı Keşfedin: Otelin hizmetlerini, odalarını ve tesislerini ana sayfada görüntüleyin.
@@ -20,11 +19,14 @@ Not: Backend entegrasyonu henüz tamamlanmadığından, rezervasyon formu ve di�
 
 Ekran Görüntüleri
 
+![Deluxe Hotel Ana Sayfa](img/home-page.png)
+
 Bağımlılıklar
 
-Bootstrap 5: Responsive tasarım ve bileşenler için kullanılır. CDN üzerinden dahil edilmiştir:<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+Bootstrap 5: Responsive tasarım ve bileşenler için kullanılır. CDN üzerinden dahil edilmiştir:
 
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
 İletişim
 Sorularınız veya önerileriniz için erayoktay02@gmail.com adresinden iletişime geçebilirsiniz.
